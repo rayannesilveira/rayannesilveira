@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="#">
+    <img src="svg/dev/frameworks/laravel.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
 <!--
 **rayannesilveira/rayannesilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
