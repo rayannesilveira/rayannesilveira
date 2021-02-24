@@ -1,5 +1,11 @@
-# Olá! 👋
+# Hello! 👋
+:woman_technologist: I am a computer engineering, pursuing a PhD in Electrical Engeneering at Federal University of Maranhão. 
 
+:space_invader: I' work with development of educational tools at UNA-SUS/UFMA as a IT production supervisor.
+
+:relaxed: I’m currently learning about Machine learning to apply in my PhD these.
+
+:octocat: In my free time I love coding, usually web and mobile systems.
 
 ## Frameworks
 <p align="left">
@@ -40,7 +46,7 @@
   </a>  
 </p>
   
-## My popular Tools  
+## My most used Tools 
 <p align="left">
  <a href="#">
     <img src="svg/dev/tools/android_studio_colour.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
