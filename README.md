@@ -9,16 +9,16 @@
 
 ## Frameworks
 <p align="left">
- <a href="#">
+ <a href="https://flutter.dev/">
     <img src="svg/dev/frameworks/flutter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
- <a href="#">
+ <a href="https://laravel.com/">
     <img src="svg/dev/frameworks/laravel.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
- <a href="#">
+ <a href="https://nodejs.org/en/">
     <img src="svg/dev/frameworks/nodejs.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
- <a href="#">
+ <a href="https://pt-br.reactjs.org/">
     <img src="svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
@@ -60,20 +60,3 @@
 </p>  
   
   
-  
-  
-  
-<!--
-**rayannesilveira/rayannesilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
