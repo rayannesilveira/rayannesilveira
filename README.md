@@ -37,6 +37,9 @@
   </a>  
  <a href="#">
     <img src="svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="svg/dev/languages/ts.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#">
     <img src="svg/dev/languages/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
